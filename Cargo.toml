@@ -12,3 +12,7 @@ rand = "^0.8.5"
 [[bin]]
 name = "w6"
 path = "src/w6.rs"
+
+[[bin]]
+name = "w6c"
+path = "src/w6c.rs"
